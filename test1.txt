@@ -1,0 +1,10 @@
+ Volume in drive M is New Volume
+ Volume Serial Number is 909C-AE6D
+
+ Directory of M:\MyProjrct
+
+29/01/2018  08:10 AM    <DIR>          .
+29/01/2018  08:10 AM    <DIR>          ..
+29/01/2018  08:10 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  143,799,824,384 bytes free
